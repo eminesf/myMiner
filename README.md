@@ -1,3 +1,19 @@
+# myMiner Ethermine
+
+<h1 align="center">myMiner</h1>
+<a>Projeto voltado para mineradores da plataforma Ethermine, com várias funcionalidades extras.</a>
+
+<ul>
+<li>Histórico de ganhos por hora</li>
+<li>Usuário com miners favoritos</li>
+<li>Cotação em tempo real do ETH</li>
+<li>Números de shares válidos, stale e inválidos</li>
+<li>Poder de mineração reportado, recebido na pool e média</li>
+<li>Últimos pagamentos</li>
+</ul>
+
+-----------------------------------------------
+
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
 ## Getting Started
